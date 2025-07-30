@@ -1,6 +1,5 @@
 {
   "name": "website",
-  "homepage": "https://omprakash1310.github.io/QuizWebsite/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
